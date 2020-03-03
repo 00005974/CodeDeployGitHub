@@ -1,0 +1,14 @@
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\bin\Debug\netcoreapp2.1\DSCC_CW1_5974.deps.json
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\bin\Debug\netcoreapp2.1\DSCC_CW1_5974.runtimeconfig.json
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\bin\Debug\netcoreapp2.1\DSCC_CW1_5974.runtimeconfig.dev.json
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\bin\Debug\netcoreapp2.1\DSCC_CW1_5974.dll
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\obj\Debug\netcoreapp2.1\DSCC_CW1_5974.csprojAssemblyReference.cache
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\obj\Debug\netcoreapp2.1\DSCC_CW1_5974.csproj.CoreCompileInputs.cache
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\obj\Debug\netcoreapp2.1\DSCC_CW1_5974.RazorAssemblyInfo.cache
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\obj\Debug\netcoreapp2.1\DSCC_CW1_5974.RazorAssemblyInfo.cs
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\obj\Debug\netcoreapp2.1\DSCC_CW1_5974.AssemblyInfoInputs.cache
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\obj\Debug\netcoreapp2.1\DSCC_CW1_5974.AssemblyInfo.cs
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\obj\Debug\netcoreapp2.1\DSCC_CW1_5974.RazorTargetAssemblyInfo.cache
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\bin\Debug\netcoreapp2.1\DSCC_CW1_5974.pdb
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\obj\Debug\netcoreapp2.1\DSCC_CW1_5974.dll
+C:\Users\Ogy\Desktop\DSCC_CW1_5974\DSCC_CW1_5974\obj\Debug\netcoreapp2.1\DSCC_CW1_5974.pdb
